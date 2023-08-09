@@ -1,12 +1,21 @@
-const person = {
-  name: "John Doe",
-  age: 30,
-  email: "john.doe@example.com",
-  isSubscribed: true,
-  address: {
-    street: "123 Main Street",
-    city: "New York",
-    country: "USA"
-  },
-  hobbies: ["reading", "coding", "hiking"]
-};
+{
+	"FakeCallData": {
+		"AdsController":
+			{
+				"NetworkAds": "facebook",
+				
+				"BannerAdmob": "ca-app-pub-1592743195092836/4059600014",
+				"InterstitialAdmob": "ca-app-pub-1592743195092836/6985184247",
+				
+				"BannerFacebook": "219707827457262_219709030790475",
+				"InterstitialFacebook": "219707827457262_219709537457091",
+				
+				"MaxBanner": "39fa166305f26a2a",
+				"MaxInterstitial": "84e45927c5fe4616",
+				
+				"ImageBanner": false,
+				"ImageBannerImg": "https://www.universalcpareview.com/wp-content/uploads/2022/08/Blog-Banner-1-1.jpg",
+				"ImageBannerURL": "https:www.google.com"
+			}
+	}
+}
